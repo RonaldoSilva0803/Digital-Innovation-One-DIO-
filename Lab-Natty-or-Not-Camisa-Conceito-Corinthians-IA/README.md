@@ -1,4 +1,4 @@
-# ⚽ Concept Kit Corinthiano: Tributo ao Doutor Sócrates & Raízes Inglesas de 1910
+# ⚽ Coleção Concept Kit Corinthiana: Tributo ao Doutor Sócrates & Raízes Inglesas de 1910
 
 <div align="center">
 
@@ -9,25 +9,29 @@
 ![Corinthians](https://img.shields.io/badge/Clube-S.C.%20Corinthians%20Paulista-black?style=for-the-badge)
 
 <p align="center">
-  <b>Explorando IAs Generativas e Pair Programming com o Google Antigravity para criar um design de vestuário esportivo hiper-realista e cheio de história.</b>
+  <b>Explorando IAs Generativas e Pair Programming com o Google Antigravity para criar uma coleção conceitual hiper-realista e cheia de história.</b>
 </p>
 
 </div>
 
 ---
 
-## 📸 Galeria do Projeto
+## 📸 Galeria da Coleção (Lookbook Oficial)
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <b>Exposição em Manequim de Estúdio</b><br><br>
-        <img src="assets/camisa_manequim.jpg" alt="Camisa no Manequim" width="400"/>
+      <td align="center" width="33%">
+        <b>Edição Clássica Branca (Modelo)</b><br><br>
+        <img src="assets/camisa_branca_modelo.jpg" alt="Camisa Branca Modelo" width="280"/>
       </td>
-      <td align="center" width="50%">
-        <b>Ensaio Fotográfico com Modelo</b><br><br>
-        <img src="assets/camisa_modelo.jpg" alt="Camisa no Modelo" width="400"/>
+      <td align="center" width="33%">
+        <b>Edição Vinho de Gala (Modelo)</b><br><br>
+        <img src="assets/camisa_modelo.jpg" alt="Camisa Vinho Modelo" width="280"/>
+      </td>
+      <td align="center" width="33%">
+        <b>Exposição em Estúdio (Manequim)</b><br><br>
+        <img src="assets/camisa_manequim.jpg" alt="Camisa Vinho Manequim" width="280"/>
       </td>
     </tr>
   </table>
@@ -37,7 +41,7 @@
 
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido como uma imersão prática no universo das **IAs Generativas** e no ecossistema de **AI Agents**. Utilizando o repositório base da **DIO (Digital Innovation One)** e o **Google Antigravity** como *AI Harness*, explorei a metodologia de *pair programming* com IA para prototipar um produto de luxo do início ao fim.
+Este projeto foi desenvolvido como uma imersão prática no universo das **IAs Generativas** e no ecossistema de **AI Agents**. Utilizando o repositório base da **DIO (Digital Innovation One)** e o **Google Antigravity** como *AI Harness*, explorei a metodologia de *pair programming* com IA para prototipar uma coleção esportiva de luxo do início ao fim.
 
 ### 🏛️ Pilares Conceituais do Design
 
@@ -48,11 +52,12 @@ Este projeto foi desenvolvido como uma imersão prática no universo das **IAs G
 
 2. **🏴󠁧󠁢󠁥󠁮󠁧󠁿 Resgate às Origens de 1910 (Corinthian FC de Londres):**
    - Homenagem ao clube amador londrino excursionista que inspirou cinco operários do Bom Retiro a fundarem o Corinthians em 1910.
-   - O design incorpora a elegância da alfaiataria britânica: gola polo clássica, riscas de giz sutis e uma bola vintage de couro com a inscrição *"CORINTHIANS 1910"*.
+   - O design incorpora a elegância da alfaiataria britânica: gola estruturada, riscas de giz sutis e uma bola vintage de couro com a inscrição *"CORINTHIANS 1910"*.
 
-3. **🎨 Paleta de Cores & Alta Costura Esportiva:**
-   - Base em **vinho profundo (burgundy)** com detalhes, frisos e escudo em **dourado metálico**, trazendo uma estética refinada comparável aos uniformes de gala dos grandes clubes europeus.
-   - Na barra inferior, a etiqueta de autenticidade estampa o lema: *"TODA LUTA, UM SÓ POVO"*.
+3. **🎨 As Duas Versões da Coleção:**
+   - **Edição Clássica Branca:** Base em branco puro com riscas de giz e acabamentos em vinho e dourado, unindo a tradição alvinegra à aristocracia esportiva europeia.
+   - **Edição Vinho de Gala:** Base em vinho profundo (*burgundy*) com detalhes, frisos e escudo em dourado metálico, trazendo uma estética refinada de terceiro uniforme de gala.
+   - Ambas contam com a etiqueta de autenticidade na barra inferior com o lema: *"TODA LUTA, UM SÓ POVO"*.
 
 ---
 
@@ -73,11 +78,11 @@ Para superar o efeito artificial ("Fake Natty") e alcançar um resultado digno d
 
 ```text
 Professional studio commercial product photography of a luxury concept football jersey. 
-Deep wine burgundy fabric with elegant metallic gold accents and trim. 
+Deep wine burgundy fabric (or crisp white fabric with wine pinstripes) with elegant metallic gold accents and trim. 
 High-tech breathable dry-fit mesh texture with visible micro-perforations and detailed stitching. 
-Elegant retro polo collar inspired by 1910 British vintage tailoring, paying homage to London's Corinthian FC. 
+Elegant retro collar inspired by 1910 British vintage tailoring, paying homage to London's Corinthian FC. 
 Subtle golden emblem on the sleeve featuring a minimalist silhouette of Sócrates with a raised fist. 
-Displayed on a modern athletic dark mannequin against a moody dark studio background. 
+Displayed on a modern athletic dark mannequin / worn by an athletic male model against a moody dark studio background. 
 Dramatic soft lighting, sharp focus on fabric texture and embroidery, 8k resolution, photorealistic.
 ```
 
@@ -94,7 +99,7 @@ Dramatic soft lighting, sharp focus on fabric texture and embroidery, 8k resolut
 | **Textura do Tecido Dry-Fit** | 🟢 **100% Natty** | As microperfurações e a elasticidade do tecido são idênticas a uma camisa oficial de jogo. |
 | **Costura e Caimento** | 🟢 **100% Natty** | As dobras naturais, a gola estruturada e os punhos ajustados transmitem realismo impecável. |
 | **Legibilidade e Símbolos** | 🟢 **Surpreendentemente Natty** | A tipografia de *"SÓCRATES"*, *"DEMOCRACIA SEMPRE"* e *"CORINTHIANS 1910"* ficou nítida e sem artefatos. |
-| **Iluminação Comercial** | 🟢 **100% Natty** | O contraste de luz e sombra destaca perfeitamente o dourado metálico sobre o tecido vinho. |
+| **Iluminação Comercial** | 🟢 **100% Natty** | O contraste de luz e sombra destaca perfeitamente os acabamentos metálicos. |
 
 ---
 
